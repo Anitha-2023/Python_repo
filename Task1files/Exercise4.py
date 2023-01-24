@@ -17,11 +17,6 @@ print "Have a good day"
 print 'Great Day'
 print('Good Day') ; print 'can print more text on the same line'
 """
-
-
-
-
-
 # Exercise 8 :If one data type value is assigned to ‘a’ variable and then a different data type value is assigned to ‘a’ again. Will it change the value? If Yes then Why?
 
 # Answer : The old value of the varible is overwritten by the new variable irrespective of the datatype
