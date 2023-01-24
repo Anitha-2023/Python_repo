@@ -15,9 +15,7 @@ print("Value of b : ",b)
 # Swapping without third variable
 a = 25
 b = 19
-a = a + b
-b = a - b
-a = a - b
+a,b = b,a
 print("Value of a : ",a)
 print("Value of b : ",b)
 

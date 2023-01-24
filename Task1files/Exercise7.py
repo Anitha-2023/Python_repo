@@ -1,12 +1,10 @@
 # Create Variables using formats such as Upper CamelCase, Lower CamelCase, SnakeCase and UPPERCASE.
 
 #Upper CamelCase
-NewVariableName = 54
+a = "GoodDay"
 #Lower CamelCase
-newVariableName = "Anitha"
+b = "goodDay"
 #SnakeCase
-new_variable_name = "Python"
+c = "good_day"
 #UPPERCASE
-NEWVARIABLENAME = 76
-print(NewVariableName)
-print(new_variable_name)
+d = "GOODDAY"

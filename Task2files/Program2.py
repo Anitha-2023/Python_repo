@@ -35,7 +35,7 @@ def arith_fun(x):
 if __name__ == "__main__":
 
     print("Select the Arithmetic Operation")
-    print("\t1. Addition\n  \t2. Subtraction \n \t3. Division \n2 \t4. Multiplication\n \t5. Average")
+    print("\t1. Addition\n  \t2. Subtraction \n \t3. Division \n \t4. Multiplication\n \t5. Average")
     user_input = int(input("Enter the choice of operation : "))
     result = arith_fun(user_input)
     

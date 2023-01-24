@@ -5,4 +5,5 @@
 number1 = int(input("Enter a number between 1 - 10 : "))
 number2 = int(input("Enter a number between 1 - 10 : "))
 z = number1 + number2
-print("Result : ", z+30)
+result = z + 30
+print("Result : ",result)
